@@ -12,7 +12,7 @@ This project uses the Hugging Face API to generate text using the "gpt2" model u
 
 1. Clone this repository:
  ```sh
- git clone https://github.com/tuusuario/ia-generativa.git
+ https://github.com/Diego232323A/IA_GENERATIVA.git
  cd ai-generative
  ```
 
